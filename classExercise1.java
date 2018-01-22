@@ -1,4 +1,4 @@
-package csc201;
+
 
 import java.util.Scanner;
 public class classExercise {
